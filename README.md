@@ -11,3 +11,6 @@ A curated collection of resources, tools, guides, and links to help you maximize
 ### Investigate Sentinel Incidents
 - [Sentinel incident investigation](https://learn.microsoft.com/en-us/azure/sentinel/incident-investigation)
 - [Investigate Sentinel incidents in depth](https://learn.microsoft.com/en-us/azure/sentinel/investigate-incidents)
+
+### Workshop
+[Sentinel Training Lab](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions/Training)
