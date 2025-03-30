@@ -14,3 +14,6 @@ A curated collection of resources, tools, guides, and links to help you maximize
 
 ### Workshop
 [Sentinel Training Lab](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions/Training/Azure-Sentinel-Training-Lab)
+
+### Blog
+[Microsoft Sentinel Blog](https://techcommunity.microsoft.com/category/microsoft-sentinel/blog/microsoftsentinelblog)
