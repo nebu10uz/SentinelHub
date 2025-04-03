@@ -18,14 +18,18 @@
             "id": "9f73880f-e66c-42e9-a338-5104f6c3cc14",
             "version": "KqlParameterItem/1.0",
             "name": "show",
-            "label": "Show, enter Yes or No",
-            "type": 1,
-            "description": "Show additonal information.",
+            "label": "Show additional information",
+            "type": 10,
+            "description": "Show additonal info",
             "isRequired": true,
+            "typeSettings": {
+              "additionalResourceOptions": [],
+              "showDefault": false
+            },
+            "jsonData": "[{ \"value\": \"Yes\", \"label\": \"Yes\"},\n {\"value\": \"No\", \"label\": \"No\", \"selected\":true }]",
             "timeContext": {
               "durationMs": 86400000
-            },
-            "value": "No"
+            }
           }
         ],
         "style": "above",
@@ -95,7 +99,7 @@
               "durationMs": 86400000
             },
             "value": {
-              "durationMs": 2592000000
+              "durationMs": 7776000000
             }
           }
         ],
