@@ -7,15 +7,15 @@
 
 This will take you to your Azure environment and display our custom template which you must fill out as indicated by the red boxes.
 
-![](image-12.png)
+![](images/image-12.png)
 
 Upon completing the template's form, on the bottom section of this page, you will see the Review + create button. Click on that for the final step.
 
-![](image-13.png)
+![](images/image-13.png)
 
 This will kick off a validation process to see that all the fields are completed. Review the information and when ready, click on the Create button at the bottom of this page.
 
-![](image-14.png)
+![](images/image-14.png)
 
 And you're set. To verify that the Sentinel delegation deployed successfully, see the following steps.
 
