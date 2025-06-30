@@ -25,7 +25,7 @@ And you're set. To verify that the Sentinel delegation deployed successfully, se
 
 ### 1. Sign in to the Azure Portal
 
-Log in to the Azure Lighthouse portal using an account with sufficient permissions (such as Owner or Contributor) in the customer’s tenant.
+Log in to the Azure portal using an account with sufficient permissions (such as Owner or Contributor) in the customer’s tenant.
 
 ### 2. Navigate to Azure Lighthouse Delegations
 
