@@ -76,5 +76,4 @@ Log in to the Azure portal using an account with sufficient permissions (such as
 | Customer | Service providers > Delegations  | List of all delegations, filterable |
 | Provider | My customers                     | Delegated subscriptions, offer name |
 
----
 
