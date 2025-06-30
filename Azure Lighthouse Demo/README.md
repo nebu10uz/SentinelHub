@@ -27,7 +27,7 @@ Log in to the Azure Lighthouse portal using an account with sufficient permissio
 
 ### 2. Navigate to Azure Lighthouse Delegations
 
-- In the Azure portal, search for and select **Service providers** from the left-hand menu or the search bar.
+- In the Azure Lighthouse portal, search for and select **Service providers** from the left-hand menu or the search bar.
     
 - You will see two relevant sections under Service providers:
     
