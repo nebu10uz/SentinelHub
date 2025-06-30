@@ -19,6 +19,8 @@ This will kick off a validation process to see that all the fields are completed
 
 And you're set. To verify that the Sentinel delegation deployed successfully, see the following steps.
 
+---
+
 ## How to Verify Azure Lighthouse Delegation from the Customer’s Tenant
 
 ### 1. Sign in to the Azure Portal
