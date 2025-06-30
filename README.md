@@ -18,5 +18,8 @@ A curated collection of resources, tools, guides, and links to help you maximize
 ### Workbooks
 [Sentinel Workbooks](https://github.com/nebu10uz/SentinelHub/tree/main/Sentinel%20Workbooks)
 
+### Azure Lighthouse Demo
+[Delegate Sentinel workspace to Provider](https://github.com/nebu10uz/SentinelHub/tree/main/Azure%20Lighthouse%20Demo)
+
 ### Blog
 [Microsoft Sentinel Blog](https://techcommunity.microsoft.com/category/microsoft-sentinel/blog/microsoftsentinelblog)
